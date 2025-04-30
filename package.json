@@ -1,3 +1,5 @@
+STRIPE_API_SECRET="sk_test_4eC39HqLyjWDarjtT1zdp7dc"
+
 {
   "name": "gts",
   "version": "6.0.2",
