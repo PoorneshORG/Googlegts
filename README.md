@@ -10,6 +10,13 @@
 
 [gts][npm-url] is Google's TypeScript style guide, and the configuration for our formatter, linter, and automatic code fixer. No lint rules to edit, no configuration to update, no more bike shedding over syntax.
 
+API_KEY="12345-abcdef-67890-ghijk-lmnop"
+
+DB_USER="admin"
+DB_PASSWORD="S3cr3tP@ssw0rd!"
+DB_HOST="localhost"
+DB_PORT="5432"
+
 To borrow from [standardjs][standardjs-url]:
 
 - **No configuration**. The easiest way to enforce consistent style in your project. Just drop it in.

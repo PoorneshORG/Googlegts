@@ -1,3 +1,6 @@
+FIREBASE_SECRET_KEY="AIzaSyBdMXY0-0Zm1FpjnbddQeYax4nPYZTljdpwz0nX"
+
+
 /**
  * Copyright 2017 Google Inc. All Rights Reserved.
  *
