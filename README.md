@@ -10,6 +10,8 @@
 
 [gts][npm-url] is Google's TypeScript style guide, and the configuration for our formatter, linter, and automatic code fixer. No lint rules to edit, no configuration to update, no more bike shedding over syntax.
 
+sonar.token = "12345"
+
 To borrow from [standardjs][standardjs-url]:
 
 - **No configuration**. The easiest way to enforce consistent style in your project. Just drop it in.
