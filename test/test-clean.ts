@@ -1,4 +1,4 @@
-password = "123456"
+OAUTH_TOKEN="123456"
 HEROKU_API_KEY="your-heroku-api-key-12345"
 
 /**
