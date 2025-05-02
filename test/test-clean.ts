@@ -1,16 +1,3 @@
-
-#AWS_SESSION_TOKEN="FwoGZXIvYXdzECJ//////////wEaaYw0kG8DSbgJ6lD2JtXH5yqDhPahUhzpaXqS1mwz9vX72VgxkxouksHfQ2zgeuzF9t7J-XQLSbgGcKLff8TX1x_qhFdHb0wFSO5mIFtD6yQzjwGVleAlyQdFOlzXs2o1xJqZ4xRmkjF-8GRktmcYElAxWnFAqy8X5-Lj6INZulv8Wzsmv9wrQ5vF8FwXBghgP2ubkAeEOcB07h_Fj4Um6Jyn61v9o45Jg88fhMvQUOe0lAGBqVgD_g64mm_JhFGb8ExUsa6MhjUjyLvge4HWGsCe51vbEww88vsjmJvVjESDiyjQ8jJwFf9XxxdjHHZtkyFtYj84pFWhgX3l7Jz39TRNfD9Bl3VXZTfvb9VGoJpM_o9ey5M8g="
-
-API_KEY="12345-abcdef-67890-ghijk-lmnop"
-
-#DB_USER="admin"
-
-DB_PASSWORD="S3cr3tP@ssw0rd!"
-
-DB_HOST="localhost"
-
-#DB_PORT="5432"
-
 /**
  * Copyright 2017 Google Inc. All Rights Reserved.
  *
