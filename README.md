@@ -1,3 +1,11 @@
+
+# Googlegts
+
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/PoorneshORG/Googlegts/badge)](https://securityscorecards.dev/viewer/?uri=github.com/PoorneshORG/Googlegts)
+
+...
+
+
 # gts
 
 > Google TypeScript Style
